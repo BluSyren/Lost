@@ -109,4 +109,3 @@ Inanna sat in the dirt, her chest heaving, staring at the massive white tree tha
 She wiped her dirty hands on her robes and stood up, steadying herself against the warm bark of the tree.
 
 "But we're still here," she whispered. "We're still here."
-

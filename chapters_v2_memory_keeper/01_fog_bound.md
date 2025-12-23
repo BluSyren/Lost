@@ -22,7 +22,7 @@ Yes. Inanna. That was hers. She held onto it tight.
 
 "Inanna," she repeated, testing the weight of it. "And I am..."
 
-She waited for the rest to come. *I am a project manager. I am a sister. I am lost.* But the definitions didn't stick. They felt slippery, like oil, sliding away before she could grasp them. She knew she *had* been something else, somewhere else, but the Fog had eaten the context.
+She waited for the rest to come. *I am a daughter. I am a sister. I am lost.* But the definitions didn't stick. They felt slippery, like oil, sliding away before she could grasp them. She knew she *had* been something else, somewhere else, but the Fog had eaten the context.
 
 All she had was the name. And the fear.
 

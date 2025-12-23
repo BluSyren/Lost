@@ -12,6 +12,14 @@ She sat up, spitting grit, her mind still reaching for the familiar comfort of h
 
 "Okay," she whispered, the word scraping against her dry throat. "Not home."
 
+She squeezed her eyes shut, forcing her brain to rewind. *Think.*
+
+The memory was there, sharp and mundane. 10:14 AM. Tuesday. She was standing by the copier, waiting for the budget reports. The smell of ozone and burnt coffee. The flickering fluorescent light overhead. Sarah from Accounting was walking toward her, mouth open to ask a question.
+
+Then the light didn't just flicker; it *screamed*. A sound that wasn't sound, but a physical pressure that turned her bones to jelly. The floor dropped out. The world twisted sideways.
+
+And she woke up here.
+
 She scrambled to her feet, her movements sharp and efficient as she brushed the grey dust from her robes. *Robes?* She looked down at the rough, grey linen hanging from her frame. It wasn't her pajamas. It wasn't her work uniform. It was the clothing of a stranger.
 
 Her hands began to shake, a tremor of panic trying to claw its way out. She clenched her fists, forcing the tremors to stop.
@@ -109,4 +117,3 @@ Inanna sat in the dirt, her chest heaving, staring at the massive white tree tha
 She wiped her dirty hands on her robes and stood up, steadying herself against the warm bark of the tree.
 
 "But we're still here," she whispered. "We're still here."
-

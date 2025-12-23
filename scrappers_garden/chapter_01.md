@@ -4,19 +4,19 @@ The air in Sector 4 tasted like copper and old dust. Imara Okoro adjusted the se
 
 Three hours to find something worth selling, or she’d be breathing the unfiltered smog of the lower levels again, choking on the particulate matter that coated everyone’s lungs in black film.
 
-Around her, the Heap rose like jagged mountains of oxidized metal. Twisted girders, shattered hull plates, and the skeletal remains of machines that had ceased to function centuries ago. This was the world: a graveyard of industry where nothing grew but rust.
+Around her, the Heap rose like jagged mountains of oxidized metal. Twisted girders, shattered hull plates, and the skeletal remains of machines that had ceased to function centuries ago. This was the world: a graveyard of industry.
 
 "Purge the broken," a voice boomed from the speakers mounted on the distant city walls. "Cast the flawed into the Pit. Only the pristine are worthy."
 
 Imara kept her head down, her gloved hands sifting through a pile of corroded gears. The Rust-Walkers were out in force today. She could see their torches flickering in the haze below, a procession of red robes moving towards the Great Pit. They were singing their dirge, dragging a cart of "cursed" items—anything that had stopped working, anything that required repair. To fix was to defy entropy, and entropy was the will of the Cosmos, or so they preached.
 
-She found a servo-motor that wasn't completely seized. It was cold, dead weight in her hand. A machine part. Static. Unchanging unless acted upon. She shoved it into her canvas satchel without joy.
+She found a servo-motor that wasn't completely seized. It was small, barely worth a half-hour of air credits, but it was something. She shoved it into her canvas satchel.
 
 She climbed higher, scaling a precarious ridge of pressed junk cars. The wind was stronger here, whipping her ragged coat around her legs. She was looking for the older strata, the layers of trash dumped before the Rust-Walkers took control, before the laws against tinkering were written in blood.
 
 Something caught the weak sunlight filtering through the smog.
 
-It wasn't the dull orange of rust or the grey of steel. It was... soft.
+It wasn't the dull orange of rust or the grey of steel. It was... clear.
 
 Imara shimmied across a beam, her boots finding purchase on the rivets. Tucked inside the crushed cabin of an ancient transport vehicle was a small box. It wasn't metal. It looked like glass, but stronger. Poly-glass?
 
@@ -28,11 +28,11 @@ No, not a pebble. It was shaped like a tear, smooth and organic.
 
 A seed.
 
-Imara had only seen pictures of them in the forbidden data-caches. Organic life. Not a machine built to serve, but a life programmed to grow. To change. To become more than it started as. It looked dead. It looked like debris.
+Imara had only seen pictures of them in the forbidden data-caches. Organic life that grew from the ground, not manufactured in a vat. It looked dead. It looked like debris.
 
 But as she held the box, a tiny green light blinked on the side of the container. *Stasis Failure. Critical.*
 
-The box wasn't just a coffin; it was a womb, and it was failing.
+The box wasn't just a coffin; it was a life-support system, and it was failing.
 
 "You there!"
 
@@ -44,7 +44,7 @@ Imara froze. Below her, on a walkway she hadn't checked, stood a Rust-Walker. Hi
 
 "Bring it down. Let us inspect the curse."
 
-Imara looked at the box in her hand. If she gave it to them, they would crush it. They would throw this tiny, impossible potential into the endless dark of the Great Pit. They would choose the silence of the machine over the chaos of life.
+Imara looked at the box in her hand. If she gave it to them, they would crush it. They would throw this tiny, impossible thing into the endless dark of the Great Pit.
 
 She shoved the box deep into her coat, against her chest.
 
@@ -60,6 +60,6 @@ She ran until her lungs burned and her oxygen warning beeped rapidly. She found 
 
 Trembling, she pulled the box out. The light blinked faster now. *Critical. Critical.*
 
-She looked at the brown seed. In a world of rust and death, it was the most beautiful, terrifying thing she had ever seen. It wasn't just a thing to be fixed. It was a life to be nurtured.
+She looked at the brown seed. In a world of rust and death, it was the most beautiful, terrifying thing she had ever seen. She couldn't throw it away. She had to fix it.
 
 And that made her a heretic.

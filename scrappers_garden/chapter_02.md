@@ -1,4 +1,4 @@
-# Chapter 2: The Heresy of Repair
+# Chapter 2: The Heresy of Growth
 
 Imara’s dwelling was a blister on the side of a massive ventilation tower. It was a cramp, suspended cage of mesh and tarp, vibrating constantly with the hum of the city’s dying engines.
 
@@ -10,9 +10,9 @@ To the Rust-Walkers, tools were for dismantling. A wrench was for unmaking, a ha
 
 *Fixing is defying the end,* he had said. *Let it die, Imara. Everything dies.*
 
-"Not this," she muttered.
+"Not this," she muttered. "This isn't fixing. This is... helping."
 
-She needed an environment. A micro-climate.
+She needed an environment. A micro-climate. Not just to repair a machine, but to mimic a world that no longer existed.
 
 She scanned her room. Her eyes landed on her own oxygen scrubber. It was a bulky, noisy unit she’d scavenged years ago. It kept the air in her room breathable, mostly.
 
@@ -24,7 +24,7 @@ She didn't hesitate. She began to unscrew the casing of the scrubber.
 
 The metal groaned, a sound like a reprimand. *Heresy,* the Rust-Walker chant echoed in her mind. *You are delaying the inevitable.*
 
-She worked with feverish intensity. She stripped the carbon scrubbers from the unit. She took an old UV sterilization lamp she used for water and wired it to a portable battery pack. It flickered, casting a purple glow over her dirty hands.
+She worked with feverish intensity. But this time, it felt different. She wasn't just putting gears back together. She was stripping the machine to feed the organism. She took the carbon scrubbers, the UV sterilization lamp—parts designed to keep machines clean—and repurposed them to give life.
 
 Next, the vessel. The stasis box was too small for growth. She needed something airtight.
 
@@ -32,9 +32,9 @@ She pulled out a cracked helmet from an old deep-dive suit she’d found weeks a
 
 Now, soil.
 
-There was no soil in the Rust Sprawl. Just rust dust and metal shavings.
+There was no soil in the Rust Sprawl. Just rust dust and metal shavings. Machines didn't need soil. They needed oil.
 
-Imara went to her food rations. The nutrient paste was grey and tasteless, recycled from who-knew-what. She squeezed three packets into the helmet. She mixed it with a handful of dust from the corner for texture. It looked revolting. It looked nothing like the rich, dark earth mentioned in the old files.
+Imara went to her food rations. The nutrient paste was grey and tasteless, recycled from who-knew-what. She squeezed three packets into the helmet. She mixed it with a handful of dust from the corner for texture. It looked revolting. It looked nothing like the rich, dark earth mentioned in the old files. But it had nitrogen. It had carbon. It was fuel for life, not combustion.
 
 She checked the stasis box. The light was solid red.
 
@@ -52,7 +52,7 @@ The fan whirred. The light buzzed. Inside the helmet, the air began to cycle.
 
 Imara sat back, wiping grease from her forehead. She coughed, the unfiltered air of the room already scratching at her throat. She pulled her rebreather mask on, the straps digging into her skin.
 
-It was an ugly contraption. A severed head’s helmet filled with sludge, wired to a gut-open machine. A Rust-Walker would vomit at the sight of such a monstrous amalgamation of broken things.
+It was an ugly contraption. A severed head’s helmet filled with sludge, wired to a gut-open machine. A Rust-Walker would vomit at the sight of such a monstrous amalgamation of broken things serving a biological purpose.
 
 But as she watched, condensation began to form on the inside of the visor. A tiny, self-contained water cycle.
 
@@ -70,4 +70,4 @@ The door rattled. The lock was flimsy.
 
 "Open up, citizen!"
 
-Imara stood, her hand resting on a heavy wrench. The only tool she had left that could be used for breaking.
+Imara stood, her hand resting on a heavy wrench. The only tool she had left that could be used for breaking. But looking at the helmet, she realized the wrench was the old way. She was fighting for something else now.
